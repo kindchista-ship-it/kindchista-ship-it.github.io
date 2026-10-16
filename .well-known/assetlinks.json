@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kindchista_ship_it.twa",
+    "sha256_cert_fingerprints": [
+      "19:08:4D:E3:2B:68:BF:15:67:CD:F4:16:71:AD:75:C3:C0:B9:58:71:D2:D0:29:A2:F3:B7:84:8E:F8:5C:6C:26"
+    ]
+  }
+}]
